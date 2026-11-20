@@ -1,6 +1,6 @@
 # PureTube – Downloads
 
-APK-Dateien der Android-App PureTube. Die App lädt ihre Updates selbst von hier.
+APK-Dateien der Android-App PureTube.
 
 Inoffizielles Hobbyprojekt. Nicht mit YouTube oder Google verbunden. Nutzung auf eigene Verantwortung.
 
@@ -12,5 +12,4 @@ Inoffizielles Hobbyprojekt. Nicht mit YouTube oder Google verbunden. Nutzung auf
 
 ## Updates
 
-Die App prüft beim Start, ob es hier eine neuere Version gibt, lädt sie herunter und bietet die Installation an.
-Beim ersten Update fragt Android einmal, ob PureTube Apps installieren darf.
+Die App prüft beim Start, ob es hier eine neuere Version gibt. Wenn ja, zeigt sie einen Hinweis und öffnet den Download im Browser. Danach die Datei öffnen und „Aktualisieren“ wählen.
