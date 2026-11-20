@@ -8,7 +8,6 @@ Inoffizielles Hobbyprojekt. Nicht mit YouTube oder Google verbunden. Nutzung auf
 
 1. Unter [Releases](../../releases/latest) die aktuelle `PureTube_….apk` laden.
 2. Auf dem Android-Gerät öffnen (Android 8.0 oder neuer) und die Installation aus unbekannten Quellen erlauben.
-3. Beim ersten Start die Benachrichtigungen erlauben.
 
 ## Updates
 
